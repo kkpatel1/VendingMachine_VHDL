@@ -1,0 +1,31 @@
+ command line:
+   E:\Programs\VHDL\Vending_Machine\VENDING_MC_TBW_tbxr.exe
+     -intstyle  ise
+     -tclbatch  genExpectedResults.cmd
+
+Fri Mar 21 23:01:11 2014
+
+Total Line Count = 815
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 60.4201 Meg. 
+
+ Total signals 14
+ Total nets 9
+ Total signal drivers 9
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 4
+isim batch on 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+quit 
+
+ Simulation time 0.03125 sec.
+
+ Estimate current memory usage 68.6326 Meg. 
+
+Fri Mar 21 23:01:11 2014
+
